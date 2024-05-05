@@ -1,2 +1,3 @@
-# Todo-Bloc
-A Todo App using Bloc pattern
+# todo_bloc
+
+A new Flutter project.
